@@ -1,0 +1,158 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    margin-left: 110%;
+}
+.container-fluid{
+    background-color: #ff6B81;
+     /* height: 100vh;  */
+    
+}
+.fa-apple{
+    font-size: 17px;
+}
+.row{
+     --bs-gutter-x:0 !important;
+}
+/* .colum{
+    text-align: center;
+} */
+.para{
+    color: #ff6B81;
+}
+.icon{
+    font-size: 30px;
+}
+.container-fluid2{
+    background-color: aliceblue;
+    /* height: 130vh; */
+}
+.container-fluid4{
+    /* height: 100vh; */
+    margin-left: 60px;
+}
+.beat{
+    background-color: #ff6B81;
+    border-radius: 5px;
+    color: white;
+    border-color: #ff6B81;
+    width: 150px;
+    /* height: 50px; */
+    font-size: 20px;
+}
+.container-fluid5{
+    /* height: 120vh; */
+}
+.container-fluid6{
+    background-color: #ff6B81;
+    color: white;
+    text-align: center;
+}
+span{
+    font-size: 30px;
+    text-align: center;
+}
+.cals{
+    width: 90%;
+    /* height: 100%; */
+    margin-left: 35px;
+}
+.container-fluid7{
+    text-align: center;
+}
+.pri{
+    color: #ff6B81;
+}
+.pri2{
+    color: black;
+}
+.team{
+    text-align: center;
+}
+.container-fluid9{
+    background-color: aliceblue;
+    text-align: center;
+}
+.container-fluid10{
+    background-color: #ff6B81;
+    text-align: center;
+    color: white;
+}
+.container-fluid11{
+    text-align: center;
+}
+.fff{
+    color: #ff6B81;
+}
+.blog{
+    color: #ff6B81;
+}
+.container-fluid12{
+    text-align: center;
+    background-color: aliceblue;
+    /* height: 130vh; */
+}
+.container-fluid13{
+    text-align: center;
+}
+.bub{
+    font-size: 40px;
+}
+.spa{
+    padding: 5px;
+    font-size: 40px;
+}
+footer{
+    background-color: #081828;
+    color: white;
+}
+.twitter{
+    font-size: 20px;
+}
+.line{
+    border: solid white px;
+    margin-left: 70px;
+}
+.email{
+    background-color: dimgrey;
+    color: white;
+    width: 220px;
+    height: 40px; 
+    border-color: none;
+    border-radius: 5px;
+}
+.search{
+    background-color: #ff6B81;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    border-color: #ff6B81;
+}
+.drop{
+    font-size: 40px;
+    margin-left: 93%;
+}
+
+.accordion-item .btn1{
+    background-color: #ff6B81;
+    color: #fff;
+
+}
+
+@media screen and (max-width:992) {
+
+    .imd{
+        display: none;
+    }
+    
+}
+
+
+
+
+
